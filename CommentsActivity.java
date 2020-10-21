@@ -28,6 +28,7 @@ public class CommentsActivity extends AppCompatActivity
         linearLayoutManager.setReverseLayout(true);
         linearLayoutManager.setStackFromEnd(true);
         commentsLists.setLayoutManager(linearLayoutManager);
+        
 
         CommentInputText=(EditText)findViewById(R.id.comment_inputs);
         PostCommentButton=(ImageButton)findViewById(R.id.post_comment_button);
