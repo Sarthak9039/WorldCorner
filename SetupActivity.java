@@ -43,6 +43,7 @@ public class SetupActivity extends AppCompatActivity
     private Button SaveInformationbuttion;
     private CircleImageView ProfileImage;
     private ProgressDialog loadingBar;
+    
 
     private FirebaseAuth mAuth;
     private DatabaseReference UsersRef;
