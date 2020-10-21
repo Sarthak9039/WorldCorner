@@ -23,6 +23,7 @@ package com.sarthak.amigo;
 
         public String getUid() {
             return uid;
+            
         }
 
         public void setUid(String uid) {
