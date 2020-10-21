@@ -23,6 +23,7 @@ public class ProfileActivity extends AppCompatActivity
     private DatabaseReference profileUserRef;
     private FirebaseAuth mAuth;
     private String CurrentUserid;
+    
 
     public ProfileActivity() {
     }
