@@ -33,6 +33,7 @@ import com.google.firebase.auth.GoogleAuthProvider;
 
 public class LoginActivity extends AppCompatActivity
 {
+
     private Button LoginButton;
     private ImageView googleSignInButton;
     private EditText UserEmail, UserPassword;
