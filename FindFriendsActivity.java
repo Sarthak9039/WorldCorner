@@ -28,6 +28,7 @@ public class FindFriendsActivity extends AppCompatActivity
    private EditText SearchInputText;
    private RecyclerView SearchResultList;
    private DatabaseReference allUsersDatabaseRef;
+   
 
 
 
