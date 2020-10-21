@@ -103,6 +103,7 @@ public class ClickPostActivity extends AppCompatActivity {
             public void onClick(View v)
             {
                 DeleteCurrentPost();
+                
 
 
             }
